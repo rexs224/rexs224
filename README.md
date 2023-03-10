@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![logo](https://raw.githubusercontent.com/rexs224/rexs224/main/assets/img3.webp)
+
 <!--
 **rexs224/rexs224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
